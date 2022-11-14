@@ -1,0 +1,5 @@
+obj/*
+dep/*
+bin/*
+*.swp
+*.swo
