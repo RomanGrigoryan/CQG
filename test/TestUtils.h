@@ -1,6 +1,6 @@
 #pragma once
-
 #include "../src/Order.h"
+
 #include <functional>
 
 namespace TestUtils
